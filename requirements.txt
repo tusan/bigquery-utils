@@ -1,0 +1,4 @@
+google-cloud-bigquery
+sql-metadata
+argparse
+black
